@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **advanced iOS topics 📱**
 
-- 👯 I’m looking to collaborate on **anything that will make a good impact into world 🌎**
+- 👯 I’m looking to collaborate on **anything that will make a great impact to the world 🌎**
 
 - 💬 Ask me about **swift, ios, mobile development**
 

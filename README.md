@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Cordoba</h1>
 <h3 align="center">I'm interested in software development in general but mostly mobile development and cloud computing.</h3>
 
-- 🔭 I’m currently working on [Zimplifica](https://www.zimplifica.com/en/)
-
 - 🌱 I’m currently learning **advanced iOS topics 📱**
 
 - 👯 I’m looking to collaborate on **anything that will make a good impact into world 🌎**

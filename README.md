@@ -9,14 +9,14 @@
 
 - 💬 Ask me about **swift, ios, mobile development**
 
-- 📫 How to reach me **frankko94@hotmail.com**
+- 📫 How to reach me **francisco.cordobar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pakocr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pakocr" height="30" width="40" /></a>
-<a href="https://twitter.com/pako_cordoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pako_cordoba" height="30" width="40" /></a>
+<a href="https://x.com/fcordobarojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fcordobarojas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-cordobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-cordobar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6142228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6142228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6142228/francisco-cordoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6142228" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
